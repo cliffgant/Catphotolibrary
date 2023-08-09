@@ -1,0 +1,9 @@
+h1, h2{text-align: center;}
+body{background-color: black; color: white; font-family: ui-rounded;}
+.topherhead{background-image: url("tophernfeyabanner.jpg"); background-size: 20%;
+}
+a:hover{color:red}
+h1, h2{text-align: center;}
+table{ width: 100%; border-collapse: collapse;}
+td {vertical-align: top; padding: 10px; text-align: center;}
+figcaption {margin-top: 10px; font-style: italic;} 
